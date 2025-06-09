@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**newt239/newt239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🏫 **Shibaura Institute of Technology** — B2
+* 🎨 Major: **Design Engineering**
+* 💻 **Software Engineer** — mainly **Web Frontend**
 
-Here are some ideas to get you started:
+## 📚 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Web Frontend Ecosystem & Tooling
+* Web Accessibility
+* Design, UI/UX
+* Typography & Fonts
+
+## 🔗 Links
+
+| Type           | URL                                       |
+| -------------- | ----------------------------------------- |
+| 🌐 Website     | [newt239.dev](https://newt239.dev)        |
+| 🐦 X (Twitter) | [@newt239](https://x.com/newt239)         |
+| ✉️ Email       | contact(at)newt239.dev                    |
+| 📝 Blog        | [にゅーとぴあ](https://newt239.hatenablog.com/) |
